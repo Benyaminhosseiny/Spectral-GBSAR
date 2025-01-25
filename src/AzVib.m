@@ -76,7 +76,7 @@ dR_tar_total_disp = dR_tar_fluc+(5e-4)*(rand(epochs,1)-0.5);
 figure;plot(dR_tar_total_disp,'LineWidth',1.5);xlabel('Time samples');ylabel('Displacement (m)')
 
 %% SIGNAL
-TomoSAR_SIGNAL
+SIGNAL
 
 %% Show parameters in a Table
 table_row = {'fc (GHz)';'Wavelength (m)';'Bandwidth (GHz)';'Chirp duration (s)';'snr (dB)';'Range samples (Nr)';'Azimuth samples (Na)';'Azimuth antenna spacing (m)';'Azimuth mode';...

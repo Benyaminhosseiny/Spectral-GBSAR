@@ -135,7 +135,7 @@ if export_flag
     print(gcf,[export_directory , 'Displacements.jpg'],'-djpeg','-r400');
 end
 %% SIGNAL
-TomoSAR_SIGNAL_RT
+SIGNAL_RT
 
 %% Show parameters in a Table
 table_row = {'fc (GHz)';'Wavelength (m)';'Bandwidth (GHz)';'Chirp duration (s)';'snr (dB)';'Range samples (Nr)';'Azimuth samples (Na)';'Azimuth antenna spacing (m)';'Azimuth mode';...

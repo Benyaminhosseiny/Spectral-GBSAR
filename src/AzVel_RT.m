@@ -105,7 +105,7 @@ dR_tar_total_disp = dR_linear;
 figure;plot(dR_tar_total_disp,'LineWidth',1.5);xlabel('Time samples');ylabel('Displacement (m)')
 
 %% SIGNAL
-TomoSAR_SIGNAL_RT
+SIGNAL_RT
 
 %% Show parameters in a Table
 table_row = {'fc (GHz)';'Wavelength (m)';'Bandwidth (GHz)';'Chirp duration (s)';'snr (dB)';'Range samples (Nr)';'Azimuth samples (Na)';'SAR length (m)';'Azimuth antenna spacing (m)';...
