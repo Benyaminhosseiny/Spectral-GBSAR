@@ -46,3 +46,34 @@ Below shows the results of vibration and angle of arrival detection results in M
 </p>
 
 *Note that, in contrast to the linear displacement scenario, we can use the conventional linear SAR trajectory here. This approach enables us to achieve much higher cross-range resolution improvement compared to the MIMO imaging mode!*
+
+## Paper
+
+If this repository piqued your interest in this work, you can read the full paper from the following links:
+
+*Spectral estimation model for linear displacement and vibration monitoring with GBSAR system*
+
+[Elsevier](https://doi.org/10.1016/j.ymssp.2023.110916) 
+
+[ResearchGate](https://www.researchgate.net/publication/377880118_Spectral_estimation_model_for_linear_displacement_and_vibration_monitoring_with_GBSAR_system)
+
+If you became even more interested, take a look at some of my other related works :)
+[Enabling High-Resolution Micro-Vibration Detection Using Ground-Based Synthetic Aperture Radar: A Case Study for Pipeline Monitoring](https://www.mdpi.com/2072-4292/15/16/3981)
+
+[Micro-vibration monitoring of pipelines using millimetre-wave MIMO radar](https://www.tandfonline.com/doi/abs/10.1080/2150704X.2023.2291424)
+
+## Citation
+Finally, don't forget to cite this work if you find it usefull:
+```
+@article{Spectral-GBSAR,
+	title = {Spectral estimation model for linear displacement and vibration monitoring with GBSAR system},
+	volume = {208},
+	doi = {doi.org/10.1016/j.ymssp.2023.110916},
+	pages = {110916},
+	journaltitle = {Mechanical Systems and Signal Processing},
+	author = {Hosseiny, Benyamin and Amini, Jalal and Aghababaei, Hossein},
+	date = {2024/2/15},
+	note = {Publisher: Elsevier},
+	keywords = {Deformation monitoring, Multiple Input Multiple Output (MIMO) radar, SAR interferometry, Beamforming, Capon, MUSIC, CLEAN},
+}
+```
