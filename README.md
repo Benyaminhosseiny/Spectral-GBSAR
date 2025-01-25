@@ -24,6 +24,7 @@ Note that MIMO radars typically use multiple physical antennas in an efficient g
 
 Below shows the results of linear velocity and angle of arrival detection results in MIMO or SAR imaging modes unsing Capon algorithm: a) MIMO, b) SAR, c) MIMO+CLEAN, d) SAR+CLEAN
 <p align="center">
- <img src="results/Linear Velocity.jpg" width=50%>
+ <img src="results/Linear Velocity.JPG" width=50%>
 </p>
+
 *Note: CLEAN is a helper algorithm further improving the detection of peak signals with reducing the effects of sidelobes*
