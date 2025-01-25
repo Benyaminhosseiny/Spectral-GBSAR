@@ -28,3 +28,12 @@ Below shows the results of linear velocity and angle of arrival detection result
 </p>
 
 *Note: CLEAN is a helper algorithm further improving the detection of peak signals with reducing the effects of sidelobes*
+
+## Effect of SAR trajectory in correct detection of Linear velocity
+
+The following illustrates how the SAR trajectory can affect the retrieval of scatterers' angles of arrival and linear velocity. In this case, the conventional linear trajectory might not be the suitable option as the phase history of the linearly moving target can be cancelled out.
+
+<p align="center">
+ <img src="results/Linear Velocity_SAR Trajectories.JPG" width=50%>
+</p>
+
