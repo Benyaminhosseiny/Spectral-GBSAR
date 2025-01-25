@@ -49,7 +49,7 @@ Below shows the results of vibration and angle of arrival detection results in M
 
 ## Paper
 
-If this repository piqued your interest in this work, you can read the full paper from the following links:
+If this repository piqued your interest in this work, you can find more details and experiments in the full paper from the following links:
 
 *Spectral estimation model for linear displacement and vibration monitoring with GBSAR system*
 
