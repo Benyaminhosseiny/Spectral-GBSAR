@@ -58,6 +58,7 @@ If this repository piqued your interest in this work, you can read the full pape
 [ResearchGate](https://www.researchgate.net/publication/377880118_Spectral_estimation_model_for_linear_displacement_and_vibration_monitoring_with_GBSAR_system)
 
 If you became even more interested, take a look at some of my other related works :)
+
 [Enabling High-Resolution Micro-Vibration Detection Using Ground-Based Synthetic Aperture Radar: A Case Study for Pipeline Monitoring](https://www.mdpi.com/2072-4292/15/16/3981)
 
 [Micro-vibration monitoring of pipelines using millimetre-wave MIMO radar](https://www.tandfonline.com/doi/abs/10.1080/2150704X.2023.2291424)
