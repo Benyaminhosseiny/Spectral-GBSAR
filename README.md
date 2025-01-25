@@ -37,3 +37,12 @@ The following illustrates how the SAR trajectory can affect the retrieval of sca
  <img src="results/Linear Velocity_SAR Trajectories.JPG" width=50%>
 </p>
 
+## Vibration detection
+
+Below shows the results of vibration and angle of arrival detection results in MIMO or SAR imaging modes unsing Capon algorithm: a) MIMO, b) SAR, c) MIMO+CLEAN, d) SAR+CLEAN
+
+<p align="center">
+ <img src="results/Vibration.JPG" width=50%>
+</p>
+
+*Note that, in contrast to the linear displacement scenario, we can use the conventional linear SAR trajectory here. This approach enables us to achieve much higher cross-range resolution improvement compared to the MIMO imaging mode!*
